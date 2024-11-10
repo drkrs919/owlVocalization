@@ -1,2 +1,2 @@
 # owlVocalization
-repo for JHU owl vocalization project
+Acoustic Analysis of Barn Owl Vocalization Patterns in Natural Contexts
